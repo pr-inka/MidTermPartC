@@ -5,7 +5,7 @@
 package midtermexam_versiona_extensioncode;
 import java.util.Scanner;
 /**
- *
+ * comment from git
  * @author prink
  */
 public class TestUserprofile {
